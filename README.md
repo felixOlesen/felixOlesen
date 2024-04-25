@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixolesen&label=Profile%20views&color=0e75b6&style=flat" alt="felixolesen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixolesen" alt="felixolesen" /></a> </p>
-
 - 🔭 I’m currently working on [BugsTDF](https://github.com/felixOlesen/BugsTDF)
 
 - 🌱 I’m currently learning **Unity, Flutter, Firebase**
@@ -25,6 +23,8 @@
 
 - ⚡ Fun fact **I have a memorised 85 digits of Pi**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixolesen" alt="felixolesen" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felix-sylvest-olesen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix-sylvest-olesen" height="30" width="40" /></a>
@@ -35,5 +35,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/AtomicBlitz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AtomicBlitz" /></a></p><br><br>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixolesen&show_icons=true&locale=en" alt="felixolesen" /></p>
