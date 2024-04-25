@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://atomicblitz.itch.io/bugs-tdf](https://atomicblitz.itch.io/bugs-tdf)
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity, Game Development, Programming, Sports**
 
 - 📫 How to reach me **felixolesen@gmail.com**
 
