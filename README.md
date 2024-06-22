@@ -21,8 +21,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felix-sylvest-olesen/](https://www.linkedin.com/in/felix-sylvest-olesen/)
 
-- ⚡ Fun fact **I have a memorised 85 digits of Pi**
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixolesen" alt="felixolesen" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
