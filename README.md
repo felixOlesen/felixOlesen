@@ -1,19 +1,38 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A Computer Science Graduate, Unity Developer, and Machine Learning Enthusiast</h3>
+<p align="center">
+Please check out some of my Public Projects!
+</p>
+<h4>Machine Learning:</h4>
+
+- [Adversarial Reinforcement Learning for Procedural Content Generation with Imitation Learning](https://github.com/felixOlesen/IL-ARLPCG)
+- [Video Game Sales Analytics Project](https://github.com/felixOlesen/GameSales-BusinessAnalytics?tab=readme-ov-file)
+- [Algorithm Visualizer](https://github.com/felixOlesen/Algorithm-Visualiser)
+- [Natural Language Processing Project](https://github.com/felixOlesen/NLP_GROUP_CW)
+- [Genetically Modified Wolf Optimization Research Paper](https://arxiv.org/abs/2301.08950)
+<!-- [Skin Cancer Classification for HAM10000 Dataset](https://github.com/aanichenko01/COM3025-CW) -->
+<h4>Game Dev:</h4>
+<p><i>More projects soon to be made public!</i></p>
+
+- [BugsTDF Source Code](https://github.com/felixOlesen/BugsTDF)
+
+<h4>Web Design:</h4>
+<p><i>More projects soon to be made public!</i></p>
+
+- [Game Radar Discussion Forum](https://github.com/felixOlesen/GameRadar)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixolesen&label=Profile%20views&color=0e75b6&style=flat" alt="felixolesen" /> </p>
 
-- 🔭 I’m currently working on [BugsTDF](https://github.com/felixOlesen/BugsTDF)
+- 🔭 I’m currently working on Aquetect (A PixelJam2024 submission I decided to build on further)
+  - Rollercoaster Tycoon-like Aqueduct Builder in a 2D top-down isometric puzzle game style.
 
-- 🌱 I’m currently learning **Unity, Flutter, Firebase**
+- 🌱 I’m currently learning **Unity, Svelte, Unreal**
 
-- ⛹️‍♂️ I’m looking to collaborate on [Pixel Game Jam 2024](https://itch.io/jam/-pixel-game-jam-2024)
+- ⛹️‍♂️ I’m looking to collaborate on [Pirate Software Game Jam](https://itch.io/jam/pirate)
 
 - 🤝 I’m looking for help with [Algorithm Visualizer](https://github.com/felixOlesen/Algorithm-Visualiser)
 
 - 👨‍💻 All of my projects are available at [https://github.com/felixOlesen](https://github.com/felixOlesen)
-
-- 📝 I regularly write articles on [https://atomicblitz.itch.io/bugs-tdf](https://atomicblitz.itch.io/bugs-tdf)
 
 - 💬 Ask me about **Unity, Game Development, Programming, Sports**
 
@@ -34,4 +53,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/AtomicBlitz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AtomicBlitz" /></a></p><br><br>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixolesen&show_icons=true&locale=en" alt="felixolesen" /></p>
