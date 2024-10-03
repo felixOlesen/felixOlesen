@@ -34,13 +34,13 @@ Please check out some of my Public Projects!
 
 - 👨‍💻 All of my projects are available at [https://github.com/felixOlesen](https://github.com/felixOlesen)
 
-- 💬 Ask me about **Unity, Game Development, Programming, Sports**
+- 💬 Ask me about **Game Development, Machine Learning, Mountaineering, Video Games**
 
 - 📫 How to reach me **felixolesen@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felix-sylvest-olesen/](https://www.linkedin.com/in/felix-sylvest-olesen/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixolesen" alt="felixolesen" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixolesen" alt="felixolesen" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
