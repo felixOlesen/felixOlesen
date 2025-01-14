@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A Computer Science Graduate, Unity Developer, and Machine Learning Enthusiast</h3>
+<h3 align="center">A Computer Science Graduate, Software Developer, and Machine Learning Hobbyist</h3>
 <p align="center">
 Please check out some of my Public Projects!
 </p>
