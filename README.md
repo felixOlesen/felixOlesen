@@ -3,6 +3,13 @@
 <p align="center">
 Please check out some of my Public Projects!
 </p>
+
+<h4>Web Design:</h4>
+<p><i>More projects soon to be made public!</i></p>
+
+- [Portfolio Website](https://github.com/felixOlesen/Developer-Portfolio)
+- [Game Radar Discussion Forum](https://github.com/felixOlesen/GameRadar)
+
 <h4>Machine Learning:</h4>
 
 - [Adversarial Reinforcement Learning for Procedural Content Generation with Imitation Learning](https://github.com/felixOlesen/IL-ARLPCG)
@@ -15,11 +22,6 @@ Please check out some of my Public Projects!
 <p><i>More projects soon to be made public!</i></p>
 
 - [BugsTDF Source Code](https://github.com/felixOlesen/BugsTDF)
-
-<h4>Web Design:</h4>
-<p><i>More projects soon to be made public!</i></p>
-
-- [Game Radar Discussion Forum](https://github.com/felixOlesen/GameRadar)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixolesen&label=Profile%20views&color=0e75b6&style=flat" alt="felixolesen" /> </p>
 
